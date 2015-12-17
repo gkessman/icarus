@@ -1,0 +1,11 @@
+body {
+	padding-top: 65px;
+}
+
+.navbar-brand {
+	font-size: 24px;
+}
+
+.content div {
+	border: 1px solid gray;
+}
